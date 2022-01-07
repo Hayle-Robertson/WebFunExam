@@ -1,0 +1,183 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+#topnavigation{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between
+}
+
+#topnavigation img{
+    width: 30px;
+}
+
+#green{
+    background-color:cadetblue
+}
+
+#topnavigation h2{
+    font-size: 20pt;
+}
+
+#topnavigation input{
+    min-width: 700px;
+    min-height: 25px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+#pageselectors {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding-bottom: 10px;
+    border-bottom: 5px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+}
+
+#text {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#topbody{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#lefttopbody{
+    display: flex;
+}
+
+#colorme{
+    background-color: cadetblue;
+    max-width: 300px;
+    font-size: 30px;
+    text-align: center;
+    padding: 50px 20px 10px 20px;
+}
+
+#linemeup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#givemespace{
+    margin-bottom: 50px;
+}
+
+#rightbody{
+    margin: 0px;
+    width: 200px;
+}
+
+#soothingaloebutton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#bottombody{
+    display: flex;
+    background-color: rgb(149, 212, 214);
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 15px 50px 15px;
+}
+
+#Aeonium{
+    text-align: center;
+}
+
+#Aeonium img{
+    width: 120px;
+    border-radius: 50%;
+}
+
+#Aloe{
+    text-align: center;
+}
+
+#Aloe img{
+    width: 120px;
+    border-radius: 50%;
+}
+
+#Cactus{
+    text-align: center;
+}
+
+#Cactus img{
+    width: 120px;
+    border-radius: 50%;
+}
+
+#Echevia{
+    text-align: center;
+}
+
+#Echevia img{
+    width: 120px;
+    border-radius: 50%;
+}
+
+#Sedum{
+    text-align: center;
+}
+
+#Sedum img{
+    width: 120px;
+    border-radius: 50%;
+}
+
+#Sempervivum{
+    text-align: center;
+}
+
+#Sempervivum img{
+    width: 120px;
+    border-radius: 50%;
+}
+
+#policy{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 5px;
+    border-style: solid;
+}
+
+#policy i{
+    font-style: normal;
+    text-decoration: underline;
+    color: blue;
+}
+
+#policy button{
+    padding-right: 10px;
+    background-color: cadetblue;
+    color: white;
+}
+
+
+
